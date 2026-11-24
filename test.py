@@ -1,1 +1,1 @@
-print Hi buddy miya!!''ddh
+print ("Hi buddy miya!!")
